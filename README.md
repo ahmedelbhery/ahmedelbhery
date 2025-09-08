@@ -5,12 +5,20 @@
 <h2 align="center">Ahmed Moustafa Elbhery</h2>
 <h3 align="center">.NET Developer | Full Stack Developer</h3>
 
-<p align="center">
-📧 albheryahmed361@gmail.com | 
-🔗 <a href="https://www.linkedin.com/in/ahmedelbhery">LinkedIn</a> | 
-💻 <a href="https://github.com/ahmedelbhery">GitHub</a> | 
-📱 01029333519
-</p>
+<div align="center">
+<a href="mailto:albheryahmed361@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ahmedelbhery/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ahmedelbhery">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="tel:+201029333519">
+  <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</div>
 
 ---
 
@@ -79,15 +87,7 @@ With hands-on experience in **ASP.NET Core, C#, SQL Server, and Angular**, I bui
 
 ### 🌍 Languages
 - **Arabic** (Native)  
-- **English** (Professional)  
-
----
-
-### 🔗 Contact Me
-<div align="center">
-<a href="mailto:albheryahmed361@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ahmedelbhery/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>   
+- **English** (Professional)   
 
 ---
 
