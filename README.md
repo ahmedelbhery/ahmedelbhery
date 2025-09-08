@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -8,18 +8,22 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;.NET%20Developer;Angular%20Learner;Always%20learning%20new%20things&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;.NET%20%26%20Angular;Always%20building%20new%20projects&center=true&width=440&height=45">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AhmedElbhery/" align="center" ><img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedElbhery.AhmedElbhery"></a>
+  <a href="https://github.com/AhmedElbhery/" align="center" >
+    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedElbhery.AhmedElbhery">
+  </a>
 </p>
 
 ---
 
-- 👨‍💻 I'm a Software Engineer passionate about **.NET Development and Angular**.  
-- 🌱 Currently learning **ASP.NET Core, Web API, Entity Framework, and Angular**.  
-- 💬 Ask me about my experience with **C#, MVC, and SQL Server**.  
+- 👨‍💻 I'm a **Full Stack Developer** passionate about **.NET Development and Angular**.  
+- ✅ Skilled in **ASP.NET Core MVC & API, C#, OOP, Entity Framework, LINQ, SQL Server, HTML, CSS, JS, Bootstrap, Angular**.  
+- 💬 Ask me about my experience with **Backend (C#, EF, SQL)** or **Frontend (Angular, Bootstrap, JS)**.  
 
 ---
 
@@ -47,27 +51,12 @@
 
 ---
 
-## 📊 Profile Statistics
-
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=AhmedElbhery&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true)
-
-</div>
-
-### ⏱ Streak Stats
-<div align=center>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedElbhery&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 🔗 &nbsp;Contact Me
 <div align="center">
 <a href="mailto:albheryahmed361@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ahmedelbhery/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+</div>   
+
+---
 
 <h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
