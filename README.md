@@ -15,9 +15,6 @@
 <a href="https://github.com/ahmedelbhery">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="tel:+201029333519">
-  <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 </div>
 
 ---
